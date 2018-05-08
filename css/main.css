@@ -97,26 +97,19 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
 h1 {
     font-size: 40px;
     color: aqua;
     text-align: center;
 }
 
+body, button {
+    margin: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+div {
+    padding: 10px;
+}
 
 /* ==========================================================================
    Helper classes
